@@ -1,0 +1,10 @@
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\bin\Debug\eazyClone.exe.config
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\bin\Debug\eazyClone.exe
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\bin\Debug\eazyClone.pdb
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.AssemblyReference.cache
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.Properties.Resources.resources
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.GenerateResource.cache
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.CoreCompileInputs.cache
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.exe
+C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.pdb
