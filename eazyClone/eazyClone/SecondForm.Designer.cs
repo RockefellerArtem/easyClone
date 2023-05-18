@@ -31,10 +31,17 @@ namespace eazyClone
         /// </summary>
         private void InitializeComponent(string nameTest)
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = $"{nameTest} — результат тестирования easyQuizzy";
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SecondForm));
+            this.SuspendLayout();
+            // 
+            // SecondForm
+            // 
+            this.ClientSize = new System.Drawing.Size(930, 653);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "SecondForm";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

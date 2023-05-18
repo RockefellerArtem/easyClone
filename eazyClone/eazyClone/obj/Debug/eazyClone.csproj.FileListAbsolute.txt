@@ -8,3 +8,15 @@ C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.Gene
 C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.CoreCompileInputs.cache
 C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.exe
 C:\Users\Scr1m\RiderProjects\eazyClone\eazyClone\obj\Debug\eazyClone.pdb
+F:\Fork\easyClone\eazyClone\eazyClone\bin\Debug\eazyClone.exe.config
+F:\Fork\easyClone\eazyClone\eazyClone\bin\Debug\eazyClone.exe
+F:\Fork\easyClone\eazyClone\eazyClone\bin\Debug\eazyClone.pdb
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.AssemblyReference.cache
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.SuggestedBindingRedirects.cache
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.Properties.Resources.resources
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.GenerateResource.cache
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.csproj.CoreCompileInputs.cache
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.exe
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.pdb
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.FirstForm.resources
+F:\Fork\easyClone\eazyClone\eazyClone\obj\Debug\eazyClone.SecondForm.resources
