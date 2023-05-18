@@ -43,7 +43,6 @@ namespace eazyClone
             this.Name = "FirstForm";
             this.Text = "FirstForm";
             this.ResumeLayout(false);
-
         }
 
         #endregion

@@ -40,8 +40,8 @@ namespace eazyClone
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SecondForm";
+            this.Text = $"{nameTest} — результат тестирования easyQuizzy";
             this.ResumeLayout(false);
-
         }
 
         #endregion
